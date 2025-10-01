@@ -4,7 +4,7 @@ The primary goal was to gain and demonstrate **hands-on experience** with comput
 
 Through this project, I developed practical skills in hardware handling, component identification, and system reassembly, and produced a resource that can guide others in performing similar tasks safely and effectively.
 
-## How to Use
+## 🚀How to Use
 
 1. **View the PDF**  
    Click on the PDF file `pc-disassembly-reassembly.pdf` in this repository to open it in your browser, or download it to view locally.
